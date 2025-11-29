@@ -1,19 +1,35 @@
-# Módulo 3 - Trilha HTML
+# **Muripédia – Enciclopédia Moderna (Desafio de Projeto – DIO)**  
+A **Muripédia** é uma recriação moderna e semântica da interface "Wikipédia, a enciclopédia livre". O objetivo foi atualizar o visual, aplicar boas práticas de HTML5 e organizar o conteúdo de forma clara, intuitiva e alinhada aos padrões semânticos da web.
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+---
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+## **1. Objetivo do Projeto**  
+Este desafio teve como meta recriar a estrutura base do Wikipedia utilizando HTML semântico e um layout mais leve e moderno.
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+Para isso, foram trabalhados os seguintes pilares:
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+### **a) HTML Semântico**  
+Uso intencional de `header`, `nav`, `main`, `section`, `article`, `aside` e `footer` para reforçar acessibilidade, SEO e organização do conteúdo.
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+### **b) Layout Moderno**  
+Reestruturação do design para uma experiência mais atual, incluindo:  
+- Navegação lateral e superior mais limpa  
+- Conteúdo centralizado e com melhor legibilidade  
+- Tipografia mais agradável  
+- Seções bem divididas
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+### **c) Estrutura de Enciclopédica**  
+Modelagem de páginas com hierarquias textuais claras, simulando um artigo real de enciclopédia com títulos, subtítulos, sumário e links internos.
 
+### **d) Links Internos e Âncoras**  
+Implementação de navegação interna usando IDs e âncoras, permitindo ir rapidamente para trechos específicos da página.
+---
 
+## **3. Tecnologias Utilizadas**  
+- HTML5  
+- CSS3
+
+---
+
+## **4. Status do Projeto**  
+Em evolução contínua. O projeto faz parte da trilha de estudos de desenvolvimento web e será aprimorado com novos aprendizados adquiridos.
